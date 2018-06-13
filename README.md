@@ -13,6 +13,7 @@ https://guides.github.com/activities/citable-code/
 * Configure write permissions for team "GBIF.no" in Settings-Collaborators & teams
 * Add the original source datafile provided by the data owner.
 * Add the Darwin Core archive file created by IPT.
+* Consider using [LFS](https://git-lfs.github.com/) for large files. The GitHub file size limit is 100MB, and git in general does not handle large files well.
 * Create a simple README.md for the repository with the dataset.
 * Remember to include a text file LICENSE.txt (in GitHub).
 
